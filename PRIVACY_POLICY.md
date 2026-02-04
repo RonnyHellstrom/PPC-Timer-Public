@@ -34,5 +34,5 @@ If this privacy policy changes, the updated version will be published at the sam
 ## Contact
 If you have questions, contact:
 
-- Email: (FILL ME)
-- Website: (FILL ME)
+- Email: ronny.hellstrom@gmail.com
+- Website: https://github.com/RonnyHellstrom/PPC-Timer-Public
